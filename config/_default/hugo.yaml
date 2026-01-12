@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: QuantRUC Laboratory (量化人大) # Website name
-baseURL: 'https://github.com/Quant-of-Renmin-University/' # Website URL
+baseURL: 'https://quantinfinity.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
