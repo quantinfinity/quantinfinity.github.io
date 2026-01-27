@@ -26,12 +26,16 @@ bio: My research interests include ...
 interests:
   - Causal Inference
   - Corporate Finance
+  - Game Theory
   - Machine Learning
 
 
 education:
   courses: 
-    - course: Master of Arts in Economics
+    - course: B.A. in Economics 
+      institution: Renmin University of China
+      year: 2025
+    - course: M.A. in Econometrics and Quantitative Economics
       institution: Duke University
       year: 2027 (Expected)
 
@@ -68,4 +72,4 @@ user_groups:
   - Members
 ---
 
-Xiangyuan Mo (莫湘源) is a graduate student in Econometrics and Quantitative Economics at Duke University. He was an undergraduate Economics student in Renmin University of China, supervised by Professor Lei Ge. His research interests include causal inference, corporate finance, and machine learning.
+Xiangyuan Mo (莫湘源) is a graduate student in Quantitative Economics at Duke University. He was an undergraduate Economics student at Renmin University of China, supervised by Professor Lei Ge. His research interests include causal inference, corporate finance, game theory and machine learning.
