@@ -77,5 +77,5 @@ user_groups:
  is an Enngroup Assistant Professor in quantitative economics at Renmin University of China. His research interests include the intersections between finance and machine learning. He has previously worked as a Quantitative Researcher at the Federal National Mortgage Association (Fannie Mae) in Washington, DC, USA. Lei holds a PhD in Economics from Georgetown University.
 He has published research in top-tier journals such as the Management Science (ABS4+, co-first author, corresponding author), and the Journal of Financial Stability (ABS3,  co-first author). He has been invited to present his work at various international top conferences in finance and economics such as the annual Allied Social Science Associations (ASSA) meeting，the annual meeting of American Real Estate and Urban Economics Association and etc. His work has been recognized with an Outstanding Research Award at the Eastern Finance Association.
 ### Work Experience
-- **Enngroup Assistant Professor in Quantitative Economics**, Renmin University of China, Beijing, China, 2023 - Present
+- **Enngroup Assistant Professor in Quantitative Economics**, Renmin University of China, Beijing, China, 2021 - Present
 - **Quantitative Researcher**, Federal National Mortgage Association (Fannie Mae), Washington, DC, USA, 2019 - 2021
