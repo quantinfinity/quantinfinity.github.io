@@ -14,28 +14,28 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student in Mathematics and Economics, Renmin University of China
+role: Graduate Student in Quantitative Finance and Fintech, Peking University
 
 # Organizations/Affiliations
 organizations:
-  - name: Renmin University of China
-    url: 'https://en.ruc.edu.cn/'
+  - name: Peking University HSBC Business School (PHBS)
+    url: 'https://english.phbs.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: My research interests include quantitative finance, machine learning, real estate, and foreclosure.
 interests:
+  - Quantitative Finance
   - Machine Learning
-  - Quantitative Economics
   - Real Estate and Foreclosure
 
 education:
   courses:
+    - course: Master in Quantitative Finance
+      institution: Peking University
+      year: 2026 - 2029
     - course: Bachelor in Mathematics and Economics
       institution: Renmin University of China
       year: 2022 - 2026
-    - course: Master in Quantitative Finance (Incoming)
-      institution: Peking University
-      year: 2026 - 2029
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hm.liang2022@ruc.edu.cn'
+    link: 'mailto:hm.liang.edu@outlook.com'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'hm.liang2022@ruc.edu.cn'
+email: 'hm.liang.edu@outlook.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +69,6 @@ user_groups:
   - Members
 ---
 
-Hongming Liang (梁泓铭) is an undergraduate student in Mathematics and Economics at Renmin University of China, focusing on machine learning, quantitative economics, real estate and foreclosure.
+Hongming Liang (梁泓铭) is a graduate student in Quantitative Finance and Fintech at Peking University HSBC Business School (PHBS), where he is pursuing a Master in Quantitative Finance (2026-2029). He received a Bachelor in Mathematics and Economics from Renmin University of China (2022-2026).
 
-He is skilled in Python, docker and CLI tools, which support his work in data analysis, model development, and technical implementation.
+His research interests include quantitative finance, machine learning, real estate, and foreclosure. His experience covers intraday ETF strategies, interday CTA strategies, machine-learning-based signal evaluation, and risk modeling for residential property auctions. His technical toolkit includes Python, SQL, Linux/CLI, Docker, Git, and Bash.
